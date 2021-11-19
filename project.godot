@@ -8,10 +8,23 @@
 
 config_version=4
 
+_global_script_classes=[  ]
+_global_script_class_icons={
+
+}
+
 [application]
 
 config/name="Mice"
+run/main_scene="res://mouse.tscn"
 config/icon="res://icon.png"
+
+[display]
+
+window/dpi/allow_hidpi=true
+window/stretch/mode="2d"
+window/stretch/aspect="expand"
+window/stretch/shrink=5.0
 
 [physics]
 

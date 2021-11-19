@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/char_male_spritesheet_run.png-2a752c0e6d4050540b8a4f97a23b4c7b.stex"
+path="res://.import/mice_spritesheet_sword-attack.png-294d7c1e9da0dee5dd23324162feba85.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/char_male_spritesheet_run.png"
-dest_files=[ "res://.import/char_male_spritesheet_run.png-2a752c0e6d4050540b8a4f97a23b4c7b.stex" ]
+source_file="res://assets/mice_spritesheet_sword-attack.png"
+dest_files=[ "res://.import/mice_spritesheet_sword-attack.png-294d7c1e9da0dee5dd23324162feba85.stex" ]
 
 [params]
 
@@ -28,7 +28,6 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
-process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true
